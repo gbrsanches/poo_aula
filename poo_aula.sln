@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "poo_aula", "poo_aula\poo_aula.csproj", "{F954D08C-C252-41E8-AE6E-79DA1A907D82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "poo_aula_2", "poo_aula_2\poo_aula_2.csproj", "{9E06F5CF-08F5-4623-8954-59643DD16718}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F954D08C-C252-41E8-AE6E-79DA1A907D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F954D08C-C252-41E8-AE6E-79DA1A907D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F954D08C-C252-41E8-AE6E-79DA1A907D82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E06F5CF-08F5-4623-8954-59643DD16718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E06F5CF-08F5-4623-8954-59643DD16718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E06F5CF-08F5-4623-8954-59643DD16718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E06F5CF-08F5-4623-8954-59643DD16718}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
